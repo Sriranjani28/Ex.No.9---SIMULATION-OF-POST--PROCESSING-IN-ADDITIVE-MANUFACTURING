@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 23.10.2025
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1902" height="796" alt="empd ex6 1" src="https://github.com/user-attachments/assets/a5c469c4-7e93-404d-b1fd-639454b1ef45" />
+
+<img width="1911" height="796" alt="empd ex6 2" src="https://github.com/user-attachments/assets/930ca819-ef56-4197-91a0-69012dfd0012" />
+
+<img width="1920" height="787" alt="empd ex6 3" src="https://github.com/user-attachments/assets/2c6aa0ad-e165-4ab6-b38b-7955a2aeea0c" />
+
+### Name: Sriranjani.M
+### Register Number: 212224040327
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
